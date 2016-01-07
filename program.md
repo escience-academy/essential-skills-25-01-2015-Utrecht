@@ -1,6 +1,6 @@
 # Program:
 
-## Day 1 (Helpers: Carlos, Mateusz, Christine)
+## Day 1 (Helpers: Carlos, Mateusz, Christine, Jeroen)
 * Data organization in spreadsheets (Carlos)
     http://www.datacarpentry.org/spreadsheet-ecology-lesson/
 * Data cleaning with OpenRefine (Mateusz)
@@ -34,7 +34,7 @@ lunch
     http://swcarpentry.github.io/sql-novice-survey/10-prog.html
     is a start but needs more
 
-## Day 4 (helpers: Natalie, Christine, Mateusz)
+## Day 4 (helpers: Natalie, Christine, Mateusz, Jeroen)
 * automation with make (Natalie)
     http://swcarpentry.github.io/make-novice/reference.html
 
