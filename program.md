@@ -19,7 +19,7 @@ lunch
 * Version Control with Git (Mateusz)
     http://swcarpentry.github.io/git-novice/reference.html
 
-## Day 3 (helpers: Christine, Carlos, Mateusz)
+## Day 3 (helpers: Christine, Carlos, Mateusz, Arnold)
 * Data management with SQL (Carlos)
     http://www.datacarpentry.org/sql-ecology/
 
