@@ -1,28 +1,26 @@
 # Program:
 
 ## Day 1 (Helpers: Carlos, Mateusz, Christine, Jeroen)
-* Data organization in spreadsheets (Carlos)
-    http://www.datacarpentry.org/spreadsheet-ecology-lesson/
-* Data cleaning with OpenRefine (Mateusz)
-    http://www.datacarpentry.org/OpenRefine-ecology/
+* [Data organization in spreadsheets](http://www.datacarpentry.org/spreadsheet-ecology-lesson/) (Carlos)
+    
+* [Data cleaning with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology/) (Mateusz)
     
 lunch
 
-* Introduction to Python (data carpentry python for ecologists)
+* [Introduction to Python](http://www.datacarpentry.org/python-ecology/) (data carpentry python for ecologists)
   (Christine, 2-3h)
-  http://www.datacarpentry.org/python-ecology/
+  
 
 ## Day 2 (helpers: Natalie, Mateusz, Carlos?)
-* the Unix shell (Natalie)
-    http://swcarpentry.github.io/shell-novice/reference.html
+* [the Unix shell](http://swcarpentry.github.io/shell-novice/reference.html) (Natalie)
+
 lunch
-* Version Control with Git (Mateusz)
-    http://swcarpentry.github.io/git-novice/reference.html
+
+* [Version Control with Git](http://swcarpentry.github.io/git-novice/index.html) (Mateusz)
 
 ## Day 3 (helpers: Christine, Carlos, Mateusz, Arnold)
-* Data management with SQL (Carlos)
-    http://www.datacarpentry.org/sql-ecology/
-
+* [Data management with SQL](http://www.datacarpentry.org/sql-ecology/) (Carlos)
+    
 lunch
 
 * introduction to Jupyter Notebook (Mateusz)
@@ -35,8 +33,7 @@ lunch
     is a start but needs more
 
 ## Day 4 (helpers: Natalie, Christine, Mateusz, Jeroen)
-* automation with make (Natalie)
-    http://swcarpentry.github.io/make-novice/reference.html
+* [automation with make](http://swcarpentry.github.io/make-novice/reference.html) (Natalie)
 
 lunch
 
@@ -56,5 +53,5 @@ Break
 
 Just in case people get bored:
 
-web data with python (https://github.com/swcarpentry/web-data-python/blob/gh-pages/01-getdata.md)
-from spreadsheet to database (https://github.com/swcarpentry/capstone-novice-spreadsheet-biblio/blob/gh-pages/02-extract.md)
+[web data with python](https://github.com/swcarpentry/web-data-python/blob/gh-pages/01-getdata.md)
+[from spreadsheet to database](https://github.com/swcarpentry/capstone-novice-spreadsheet-biblio/blob/gh-pages/02-extract.md)
