@@ -7,7 +7,7 @@
     
 lunch
 
-* [Introduction to Python](http://www.datacarpentry.org/python-ecology/) (data carpentry python for ecologists)
+* [Introduction to Python I](http://www.datacarpentry.org/python-ecology/) (data carpentry python for ecologists)
   (Christine, 2-3h)
   
 
@@ -15,14 +15,15 @@ lunch
 * [the Unix shell](http://swcarpentry.github.io/shell-novice/reference.html) (Natalie)
 
 lunch
+* [Introduction to Python II](http://www.datacarpentry.org/python-ecology/) (data carpentry python for ecologists)
+  (Christine, 2-3h)
 
-* [Version Control with Git](http://swcarpentry.github.io/git-novice/index.html) (Mateusz)
 
-## Day 3 (helpers: Christine, Carlos, Mateusz, Arnold)
+## Day 3 (helpers: Carlos, Mateusz, Arnold)
 * [Data management with SQL](http://www.datacarpentry.org/sql-ecology/) (Carlos)
     
 lunch
-
+* [Version Control with Git](http://swcarpentry.github.io/git-novice/index.html) (Mateusz)
 * introduction to Jupyter Notebook (Mateusz)
     no lesson yet, have to write one
 * working with databases in Python (Mateusz)
