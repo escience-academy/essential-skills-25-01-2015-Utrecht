@@ -17,7 +17,12 @@ lunch
 lunch
 * [Introduction to Python II](http://www.datacarpentry.org/python-ecology/) (data carpentry python for ecologists)
   (Christine, 2-3h)
-
+* working with databases in Python (Mateusz)
+    last chapter from DC python:
+    http://www.datacarpentry.org/python-ecology/08-working-with-sql
+    and maybe sth from SC
+    http://swcarpentry.github.io/sql-novice-survey/10-prog.html
+    is a start but needs more
 
 ## Day 3 (helpers: Carlos, Mateusz, Arnold)
 * [Data management with SQL](http://www.datacarpentry.org/sql-ecology/) (Carlos)
@@ -26,12 +31,6 @@ lunch
 * [Version Control with Git](http://swcarpentry.github.io/git-novice/index.html) (Mateusz)
 * introduction to Jupyter Notebook (Mateusz)
     no lesson yet, have to write one
-* working with databases in Python (Mateusz)
-    last chapter from DC python:
-    http://www.datacarpentry.org/python-ecology/08-working-with-sql
-    and maybe sth from SC
-    http://swcarpentry.github.io/sql-novice-survey/10-prog.html
-    is a start but needs more
 
 ## Day 4 (helpers: Natalie, Christine, Mateusz, Jeroen)
 * [automation with make](http://swcarpentry.github.io/make-novice/reference.html) (Natalie)
