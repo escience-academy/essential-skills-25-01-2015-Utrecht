@@ -1,3 +1,5 @@
+# Setup instructions for Essential Skills Workshop
+
 Participants should bring their own laptops to the training. Lessons support
 three major platforms Windows, Mac OS X and Linux.
 Below you can find intstructions on how to install necessary software.
