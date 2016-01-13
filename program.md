@@ -12,7 +12,7 @@ lunch
   
 
 ## Day 2 (helpers: Natalie, Mateusz, Carlos?)
-* [the Unix shell](http://swcarpentry.github.io/shell-novice/reference.html) (Natalie)
+* [the Unix shell](http://swcarpentry.github.io/shell-novice) (Natalie)
 
 lunch
 * [Introduction to Python II](http://www.datacarpentry.org/python-ecology/) (data carpentry python for ecologists)
@@ -33,7 +33,7 @@ lunch
     no lesson yet, have to write one
 
 ## Day 4 (helpers: Natalie, Christine, Mateusz, Jeroen)
-* [automation with make](http://swcarpentry.github.io/make-novice/reference.html) (Natalie)
+* [automation with make](http://swcarpentry.github.io/make-novice/) (Natalie)
 
 lunch
 
