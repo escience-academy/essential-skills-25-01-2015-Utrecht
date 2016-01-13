@@ -95,5 +95,5 @@ install anything.
 you can use `nano`, which should be pre-installed.
 
 #### Git
-Git is not already available on your machine you can try to install it via
+If Git is not already available on your machine you can try to install it via
 your distro's package manager (e.g. `apt-get` or `yum`).
