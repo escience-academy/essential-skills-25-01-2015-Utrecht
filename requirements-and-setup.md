@@ -59,7 +59,7 @@ plugin for [Firefox](http://www.datacarpentry.org/sql-ecology/). If you don't ha
 ## Shell and Git
  
 ### Windows
-Install Git for Windows by download and running
+Install Git for Windows by downloading and running
 [the installer](http://msysgit.github.io/).
 This will provide you with both Git and Bash in the Git Bash program.
     
