@@ -5,41 +5,45 @@ three major platforms Windows, Mac OS X and Linux.
 Below you can find intstructions on how to install necessary software.
 
 ## Libre Office (Data organisation in spreadsheets).
+  * Windows:
+    * Download the Installer:
+    
+      Go to the [installation page](https://www.libreoffice.org/download/libreoffice-fresh/).
+      The version for Windows should automatically be selected. Click
+      Download Version 4.4.2. You will go to a page that asks about
+      a donation, but you don't need to make one. Your download should
+      begin automatically.
 
-### Windows:
+    * Install LibreOffice
+    
+      Once the installer is downloaded, double click on it and it should install. 
 
-#### Download the Installer
-Go to the [installation page](https://www.libreoffice.org/download/libreoffice-fresh/).
-The version for Windows should automatically be selected. Click
-Download Version 4.4.2. You will go to a page that asks about
-a donation, but you don't need to make one. Your download should
-begin automatically.
-
-#### Install LibreOffice
-Once the installer is downloaded, double click on it and it should install. 
-
-### Mac OS X
-#### Download the Installer
-Go to the [installation page](https://www.libreoffice.org/download/libreoffice-fresh/).
-The version for Mac OS X should automatically be selected. Click
-Download Version 4.4.2. You will go to a page that asks about
-a donation, but you don't need to make one. Your download should begin
-automatically.
+  * Mac OS X
+    * Download the Installer
+    
+      Go to the [installation page](https://www.libreoffice.org/download/libreoffice-fresh/).
+      The version for Mac OS X should automatically be selected. Click
+      Download Version 4.4.2. You will go to a page that asks about
+      a donation, but you don't need to make one. Your download should begin
+      automatically.
         
-#### Install LibreOffice
-The file LibreOffice_4.4.2_MacOS_x86-64 should have been downloaded.
-Double click on this file, and LibreOffice will be installed. 
+    * Install LibreOffice
 
-### Linux
-#### Download the Installer
-Go to the [installation page](https://www.libreoffice.org/download/libreoffice-fresh/).
-The version for Linux should automatically be selected. Click
-Download Version 4.4.2. You will go to a page that asks about
-a donation, but you don't need to make one. Your download should begin
-automatically.
+      The file LibreOffice_4.4.2_MacOS_x86-64 should have been downloaded.
+      Double click on this file, and LibreOffice will be installed. 
+
+  * Linux
+    * Download the Installer
+
+      Go to the [installation page](https://www.libreoffice.org/download/libreoffice-fresh/).
+      The version for Linux should automatically be selected. Click
+      Download Version 4.4.2. You will go to a page that asks about
+      a donation, but you don't need to make one. Your download should begin
+      automatically.
         
-#### Install LibreOffice
-Once the installer is downloaded, double click on it and it should install.
+    * Install LibreOffice
+
+      Once the installer is downloaded, double click on it and it should install.
         
 ## Open Refine (Data cleaning with OpenRefine)
 To install OpenRefine please follow instructions in [OpenRefine Docuementation](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions)
@@ -58,42 +62,47 @@ plugin for [Firefox](http://www.datacarpentry.org/sql-ecology/). If you don't ha
  
 ## Shell and Git
  
-### Windows
-Install Git for Windows by downloading and running
-[the installer](http://msysgit.github.io/).
-This will provide you with both Git and Bash in the Git Bash program.
+  * Windows
+
+    Install Git for Windows by downloading and running
+    [the installer](http://msysgit.github.io/).
+    This will provide you with both Git and Bash in the Git Bash program.
     
-### Mac OS X
+  * Mac OS X
 
-#### Bash
-The default shell in all versions of Mac OS X is bash, so no need to
-install anything. You access bash from the Terminal (found in
-`/Applications/Utilities`). You may want to keep Terminal in your dock
-for this workshop.
+    * Bash
+      The default shell in all versions of Mac OS X is bash, so no need to
+      install anything. You access bash from the Terminal (found in
+      `/Applications/Utilities`). You may want to keep Terminal in your dock
+      for this workshop.
+      
+    * Editor
+      We recommend [Text Wrangler](http://www.barebones.com/products/textwrangler/)
+      or [Sublime Text](http://www.sublimetext.com/).
+      In a pinch, you can use nano, which should be pre-installed.
+      
+    * Git
+    
+      For OS X 10.8 and higher, install Git for Mac by downloading and running
+      [the installer](http://git-scm.com/downloads). For older versions of OS X
+      (10.5-10.7) use the most recent available installer for your OS
+      [available here](https://code.google.com/p/git-osx-installer/downloads/list).
+      Use the Leopard installer for 10.5 and the Snow Leopard installer for 10.6-10.7.
 
-#### Editor
-We recommend [Text Wrangler](http://www.barebones.com/products/textwrangler/)
-or [Sublime Text](http://www.sublimetext.com/).
-In a pinch, you can use nano, which should be pre-installed.
+  * Linux
 
-#### Git
-For OS X 10.8 and higher, install Git for Mac by downloading and running
-[the installer](http://git-scm.com/downloads). For older versions of OS X
-(10.5-10.7) use the most recent available installer for your OS
-[available here](https://code.google.com/p/git-osx-installer/downloads/list).
-Use the Leopard installer for 10.5 and the Snow Leopard installer for 10.6-10.7.
+    * Bash
+      
+      The default shell is usually `bash`, but if your machine is set up differently
+      you can run it by opening a terminal and typing `bash`. There is no need to
+      install anything.
+    
+    * Editor
 
-### Linux
+      [Kate](http://kate-editor.org/) is one option for Linux users. In a pinch,
+      you can use `nano`, which should be pre-installed.
 
-#### Bash
-The default shell is usually `bash`, but if your machine is set up differently
-you can run it by opening a terminal and typing `bash`. There is no need to
-install anything.
-
-#### Editor
-[Kate](http://kate-editor.org/) is one option for Linux users. In a pinch,
-you can use `nano`, which should be pre-installed.
-
-#### Git
-If Git is not already available on your machine you can try to install it via
-your distro's package manager (e.g. `apt-get` or `yum`).
+    * Git
+    
+      If Git is not already available on your machine you can try to install it via
+      your distro's package manager (e.g. `apt-get` or `yum`).
