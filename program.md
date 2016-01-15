@@ -55,3 +55,8 @@ Just in case people get bored:
 
 [web data with python](https://github.com/swcarpentry/web-data-python/blob/gh-pages/01-getdata.md)
 [from spreadsheet to database](https://github.com/swcarpentry/capstone-novice-spreadsheet-biblio/blob/gh-pages/02-extract.md)
+
+## Day 5
+* Introductin to Unix (1-2h)
+* Using Cartesius and Lisa (3h)
+* Using HPC CLoud (3h)
