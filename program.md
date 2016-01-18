@@ -11,7 +11,7 @@ lunch
   (Christine, 2-3h)
   
 
-## Day 2 (helpers: Natalie, Mateusz, Carlos?)
+## Day 2 (helpers: Natalie, Mateusz, Carlos?, Janneke)
 * [the Unix shell](http://swcarpentry.github.io/shell-novice) (Natalie)
 
 lunch
