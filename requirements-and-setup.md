@@ -46,7 +46,7 @@ Below you can find intstructions on how to install necessary software.
       Once the installer is downloaded, double click on it and it should install.
         
 ## Open Refine (Data cleaning with OpenRefine)
-To install OpenRefine please follow instructions in [OpenRefine Docuementation](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions)
+To install OpenRefine please follow instructions in [OpenRefine Documentation](https://github.com/OpenRefine/OpenRefine/wiki/Installation-Instructions)
  
 ## Python 
 For Python lessons we will be using Anaconda distribution. You can download
