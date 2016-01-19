@@ -71,12 +71,14 @@ plugin for [Firefox](http://www.datacarpentry.org/sql-ecology/). If you don't ha
   * Mac OS X
 
     * Bash
+    
       The default shell in all versions of Mac OS X is bash, so no need to
       install anything. You access bash from the Terminal (found in
       `/Applications/Utilities`). You may want to keep Terminal in your dock
       for this workshop.
       
     * Editor
+    
       We recommend [Text Wrangler](http://www.barebones.com/products/textwrangler/)
       or [Sublime Text](http://www.sublimetext.com/).
       In a pinch, you can use nano, which should be pre-installed.
