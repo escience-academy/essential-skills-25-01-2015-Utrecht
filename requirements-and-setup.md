@@ -106,3 +106,7 @@ plugin for [Firefox](http://www.datacarpentry.org/sql-ecology/). If you don't ha
     
       If Git is not already available on your machine you can try to install it via
       your distro's package manager (e.g. `apt-get` or `yum`).
+      
+During git lesson, we will be also learning some features of [Github](https://github.com) - collaboration,
+code review, and code management site. You need to register at github
+[here](https://github.com/join).
