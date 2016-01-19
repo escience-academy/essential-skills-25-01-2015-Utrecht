@@ -29,7 +29,7 @@ Below you can find intstructions on how to install necessary software.
         
     * Install LibreOffice
 
-      The file LibreOffice_5.0.4_MacOS_x86-64 should have been downloaded.
+      The file LibreOffice_5.0.4_MacOS_x86-64.dmg should have been downloaded.
       Double click on this file, and LibreOffice will be installed. 
 
   * Linux
