@@ -81,7 +81,7 @@ plugin for [Firefox](http://www.datacarpentry.org/sql-ecology/). If you don't ha
     
       We recommend [Text Wrangler](http://www.barebones.com/products/textwrangler/)
       or [Sublime Text](http://www.sublimetext.com/).
-      In a pinch, you can use nano, which should be pre-installed.
+      In a pinch, you can use `nano`, which should be pre-installed.
       
     * Git
     
