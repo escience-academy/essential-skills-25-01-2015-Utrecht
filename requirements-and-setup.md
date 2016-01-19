@@ -10,7 +10,7 @@ Below you can find intstructions on how to install necessary software.
     
       Go to the [installation page](https://www.libreoffice.org/download/libreoffice-fresh/).
       The version for Windows should automatically be selected. Click
-      Download Version 4.4.2. You will go to a page that asks about
+      Download Version 5.0.4. You will go to a page that asks about
       a donation, but you don't need to make one. Your download should
       begin automatically.
 
@@ -23,13 +23,13 @@ Below you can find intstructions on how to install necessary software.
     
       Go to the [installation page](https://www.libreoffice.org/download/libreoffice-fresh/).
       The version for Mac OS X should automatically be selected. Click
-      Download Version 4.4.2. You will go to a page that asks about
+      Download Version 5.0.4. You will go to a page that asks about
       a donation, but you don't need to make one. Your download should begin
       automatically.
         
     * Install LibreOffice
 
-      The file LibreOffice_4.4.2_MacOS_x86-64 should have been downloaded.
+      The file LibreOffice_5.0.4_MacOS_x86-64 should have been downloaded.
       Double click on this file, and LibreOffice will be installed. 
 
   * Linux
@@ -37,7 +37,7 @@ Below you can find intstructions on how to install necessary software.
 
       Go to the [installation page](https://www.libreoffice.org/download/libreoffice-fresh/).
       The version for Linux should automatically be selected. Click
-      Download Version 4.4.2. You will go to a page that asks about
+      Download Version 5.0.4. You will go to a page that asks about
       a donation, but you don't need to make one. Your download should begin
       automatically.
         
