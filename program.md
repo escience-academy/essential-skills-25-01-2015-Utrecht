@@ -1,6 +1,6 @@
 # Program:
 
-## Day 1 (Helpers: Carlos, Mateusz, Christine, Jeroen)
+## Day 1 | Trainers: Carlos, Mateusz | Helpers: Christine, Jeroen
 * [Data organization in spreadsheets](http://www.datacarpentry.org/spreadsheet-ecology-lesson/) (Carlos)
     
 * [Data cleaning with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology/) (Mateusz)
@@ -11,7 +11,7 @@ lunch
   (Christine, 2-3h)
   
 
-## Day 2 (helpers: Natalie, Mateusz, Carlos?, Janneke)
+## Day 2 | Trainers: Natalie, Christine, Mateusz | Helpers: Carlos, Janneke
 * [the Unix shell](http://swcarpentry.github.io/shell-novice) (Natalie)
 
 lunch
@@ -32,7 +32,7 @@ lunch
 * introduction to Jupyter Notebook (Mateusz)
     no lesson yet, have to write one
 
-## Day 4 (helpers: Natalie, Christine, Mateusz, Jeroen)
+## Day 4 | Trainers: Natalie, Christine | Helpers: Mateusz, Jeroen
 * [automation with make](http://swcarpentry.github.io/make-novice/) (Natalie)
 
 lunch
@@ -56,7 +56,7 @@ Just in case people get bored:
 [web data with python](https://github.com/swcarpentry/web-data-python/blob/gh-pages/01-getdata.md)
 [from spreadsheet to database](https://github.com/swcarpentry/capstone-novice-spreadsheet-biblio/blob/gh-pages/02-extract.md)
 
-## Day 5
+## Day 5 | Trainers: Jeroen | Helpers: Mateusz
 * Introductin to Unix (1-2h)
 * Using Cartesius and Lisa (3h)
 * Using HPC CLoud (3h)
