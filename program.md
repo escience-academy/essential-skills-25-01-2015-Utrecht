@@ -1,6 +1,6 @@
 # Program:
 
-## Day 1 | Trainers: Carlos, Mateusz | Helpers: Christine, Jeroen
+## Day 1 | Trainers: Carlos, Mateusz, Christine | Helpers: Jeroen
 * [Data organization in spreadsheets](http://www.datacarpentry.org/spreadsheet-ecology-lesson/) (Carlos)
     
 * [Data cleaning with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology/) (Mateusz)
