@@ -53,6 +53,9 @@ For Python lessons we will be using Anaconda distribution. You can download
 installer for your platform from [Continuum Analitics page](https://www.continuum.io/downloads).
 Please download **PYTHON 3.5** version.
 After downloading follow [Installation instructions](http://docs.continuum.io/anaconda/install).
+
+Installer should put `Launcher` file somewhere available. Use this `Launcher` to start anaconda applications,
+like Python Console or IPython Notebook. 
  
 ## SQLite
 SQL is a specialized programming language used with databases. We use a simple
