@@ -24,7 +24,7 @@ lunch
     http://swcarpentry.github.io/sql-novice-survey/10-prog.html
     is a start but needs more
 
-## Day 3 (helpers: Carlos, Mateusz, Arnold, Vincent, Anand)
+## Day 3 | Trainers: Carlos, Mateusz | Helpers: Arnold, Vincent, Anand
 * [Data management with SQL](http://www.datacarpentry.org/sql-ecology/) (Carlos)
     
 lunch
