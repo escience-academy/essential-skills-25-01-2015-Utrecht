@@ -13,7 +13,7 @@ lunch
   (3-4h) (Christine) 
   
 
-## Day 2 | Trainers: Natalie, Christine, Mateusz | Helpers: Carlos, Janneke
+## Day 2 | Trainers: Natalie, Christine, Mateusz | Helpers: Carlos, Janneke, Hakim
 * [the Unix shell](http://swcarpentry.github.io/shell-novice) (3h) (Natalie)
 
 lunch
