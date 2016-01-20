@@ -28,7 +28,8 @@ lunch
 
 ## Day 4 | Trainers: Natalie, Christine | Helpers: Mateusz, Jeroen
 * [automation with make](http://swcarpentry.github.io/make-novice/) (Natalie)
-
+* sql in python
+* if there is time left github.io pages
 lunch
 
 * large dataworkflow with Pandas and SQLite (Christine, 3h) (https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/)
