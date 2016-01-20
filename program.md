@@ -1,57 +1,50 @@
 # Program:
 
 ## Day 1 | Trainers: Carlos, Mateusz, Christine | Helpers: Jeroen
-* [Data organization in spreadsheets](http://www.datacarpentry.org/spreadsheet-ecology-lesson/) (Carlos)
+* [Data organization in spreadsheets](http://www.datacarpentry.org/spreadsheet-ecology-lesson/) (1.5h ) (Carlos)
+
+coffee
     
-* [Data cleaning with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology/) (Mateusz)
+* [Data cleaning with OpenRefine](http://www.datacarpentry.org/OpenRefine-ecology/) (1.5h) (Mateusz)
     
 lunch
 
 * [Introduction to Python I](http://www.datacarpentry.org/python-ecology/) (data carpentry python for ecologists)
-  (Christine, 2-3h)
+  (3-4h) (Christine) 
   
 
 ## Day 2 | Trainers: Natalie, Christine, Mateusz | Helpers: Carlos, Janneke
-* [the Unix shell](http://swcarpentry.github.io/shell-novice) (Natalie)
+* [the Unix shell](http://swcarpentry.github.io/shell-novice) (3h) (Natalie)
 
 lunch
 * [Introduction to Python II](http://www.datacarpentry.org/python-ecology/) (data carpentry python for ecologists)
-  (Christine, 2-3h)
+  (3-4h) (Christine)
 
 ## Day 3 | Trainers: Carlos, Mateusz | Helpers: Arnold, Vincent, Anand
-* [Data management with SQL](http://www.datacarpentry.org/sql-ecology/) (Carlos)
+* [Data management with SQL](http://www.datacarpentry.org/sql-ecology/) (3h) (Carlos)
     
 lunch
-* [Version Control with Git](http://swcarpentry.github.io/git-novice/index.html) (Mateusz)
-* introduction to Jupyter Notebook (Mateusz)
-    no lesson yet, have to write one
+* [Version Control with Git](http://swcarpentry.github.io/git-novice/index.html) (3h)(Mateusz)
+* introduction to Jupyter Notebook (1h) (Carlos)
 
 ## Day 4 | Trainers: Natalie, Christine | Helpers: Mateusz, Jeroen
-* [automation with make](http://swcarpentry.github.io/make-novice/) (Natalie)
-* sql in python
-* if there is time left github.io pages
+* [automation with make](http://swcarpentry.github.io/make-novice/) (1h) (Natalie)
+*  *sql in python*
+* *if there is time left github.io pages*
 lunch
 
-* large dataworkflow with Pandas and SQLite (Christine, 3h) (https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/)
-it’s nice, but the dataset is not life science related, maybe we can find sth
-better maybe we can translate this example to use pandas plotting instead of
-plotly
-* Visualisation on large data (Christine?)
+* python recap (1h) (Christine)
 
 Break
+* FAIR data (2h?) (Luiz)
+* PIDs (max 1.5h) (Christine)
+  (playing with it; label data file with PID → load data via PID → push to workflow)
 
-* PIDs (Christine, 20 minutes about the concept, 1-2h for the python client
-  and playing with it; label data file with PID → load data via PID → push to workflow)
-* FAIR data (who? what? how much time?)
+## Day 5 | Trainers: Jeroen, Markus, Natalie | Helpers: Mateusz
+* Introduction to Unix (1-2h) (Jeroen)
+* Using Cartesius and Lisa (3h) (Jeroen)
 
+lunch
 
-
-Just in case people get bored:
-
-[web data with python](https://github.com/swcarpentry/web-data-python/blob/gh-pages/01-getdata.md)
-[from spreadsheet to database](https://github.com/swcarpentry/capstone-novice-spreadsheet-biblio/blob/gh-pages/02-extract.md)
-
-## Day 5 | Trainers: Jeroen, Markus | Helpers: Natalie, Mateusz
-* Introductin to Unix (1-2h)
-* Using Cartesius and Lisa (3h)
-* Using HPC CLoud (3h)
+* Using HPC CLoud (3h) (Natalie)
+* Wrapup (1h) (Mateusz)
