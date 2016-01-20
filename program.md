@@ -9,7 +9,7 @@ coffee
     
 lunch
 
-* [Introduction to Python I](http://www.datacarpentry.org/python-ecology/) (data carpentry python for ecologists)
+* [Introduction to Python I](http://www.datacarpentry.org/python-ecology/)
   (3-4h) (Christine) 
   
 
