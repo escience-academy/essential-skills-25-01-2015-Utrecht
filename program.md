@@ -17,12 +17,6 @@ lunch
 lunch
 * [Introduction to Python II](http://www.datacarpentry.org/python-ecology/) (data carpentry python for ecologists)
   (Christine, 2-3h)
-* working with databases in Python (Mateusz)
-    last chapter from DC python:
-    http://www.datacarpentry.org/python-ecology/08-working-with-sql
-    and maybe sth from SC
-    http://swcarpentry.github.io/sql-novice-survey/10-prog.html
-    is a start but needs more
 
 ## Day 3 | Trainers: Carlos, Mateusz | Helpers: Arnold, Vincent, Anand
 * [Data management with SQL](http://www.datacarpentry.org/sql-ecology/) (Carlos)
