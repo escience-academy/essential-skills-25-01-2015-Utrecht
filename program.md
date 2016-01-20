@@ -20,6 +20,8 @@ lunch
 * [Introduction to Python II](http://www.datacarpentry.org/python-ecology/) (data carpentry python for ecologists)
   (3-4h) (Christine)
 
+At the end of the day ask student about unclear or complex concepts that they would like go through again.
+
 ## Day 3 | Trainers: Carlos, Mateusz | Helpers: Arnold, Vincent, Anand
 * [Data management with SQL](http://www.datacarpentry.org/sql-ecology/) (3h) (Carlos)
     
