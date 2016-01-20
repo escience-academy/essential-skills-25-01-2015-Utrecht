@@ -64,9 +64,15 @@ plugin for [Firefox](http://www.datacarpentry.org/sql-ecology/). If you don't ha
  
   * Windows
 
-    Install Git for Windows by downloading and running
-    [the installer](http://msysgit.github.io/).
-    This will provide you with both Git and Bash in the Git Bash program.
+    * Bash & Git
+    
+     Install Git for Windows by downloading and running
+     [the installer](http://msysgit.github.io/).
+     This will provide you with both Git and Bash in the Git Bash program.
+
+    * Editor
+    
+     We suggest to use [Notepad++](https://notepad-plus-plus.org/).
     
   * Mac OS X
 
