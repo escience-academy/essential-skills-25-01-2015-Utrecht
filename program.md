@@ -1,6 +1,6 @@
 # Program:
 
-## Day 1 | Trainers: Carlos, Mateusz, Christine | Helpers: Jeroen
+## Day 1 | Trainers: Carlos, Mateusz, Christine | Helpers: Jeroen, Haili
 * [Data organization in spreadsheets](http://www.datacarpentry.org/spreadsheet-ecology-lesson/) (1.5h ) (Carlos)
 
 coffee
