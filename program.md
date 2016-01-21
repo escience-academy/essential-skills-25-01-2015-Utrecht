@@ -38,7 +38,7 @@ lunch
 * python recap (1h) (Christine)
 
 Break
-* FAIR data (2h?) (Luiz)
+* FAIR data (1h?) (Luiz)
 * PIDs (max 1.5h) (Christine)
   (playing with it; label data file with PID → load data via PID → push to workflow)
 
