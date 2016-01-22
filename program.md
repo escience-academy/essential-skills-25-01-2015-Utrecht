@@ -1,6 +1,6 @@
 # Program:
 
-## Day 1 | Trainers: Carlos, Mateusz, Christine | Helpers: Jeroen
+## Day 1 | Trainers: Carlos, Mateusz, Christine | Helpers: Jeroen, Haili
 * [Data organization in spreadsheets](http://www.datacarpentry.org/spreadsheet-ecology-lesson/) (1.5h ) (Carlos)
 
 coffee
@@ -9,7 +9,7 @@ coffee
     
 lunch
 
-* [Introduction to Python I](http://www.datacarpentry.org/python-ecology/) (data carpentry python for ecologists)
+* [Introduction to Python I](http://www.datacarpentry.org/python-ecology/)
   (3-4h) (Christine) 
   
 
@@ -38,7 +38,7 @@ lunch
 * python recap (1h) (Christine)
 
 Break
-* FAIR data (2h?) (Luiz)
+* FAIR data (1h?) (Luiz)
 * PIDs (max 1.5h) (Christine)
   (playing with it; label data file with PID → load data via PID → push to workflow)
 
