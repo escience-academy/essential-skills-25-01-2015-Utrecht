@@ -27,7 +27,7 @@ At the end of the day ask student about unclear or complex concepts that they wo
     
 lunch
 * [Version Control with Git](http://swcarpentry.github.io/git-novice/index.html) (3h)(Mateusz)
-* introduction to Jupyter Notebook (1h) (Carlos)
+* [Introduction to Jupyter Notebook](https://github.com/NLeSC/essential-skills-25-01-2015-Utrecht/blob/master/lessons/Notebook.md) (1h) (Carlos)
 
 ## Day 4 | Trainers: Natalie, Christine | Helpers: Mateusz, Jeroen
 * [automation with make](http://swcarpentry.github.io/make-novice/) (1h) (Natalie)
