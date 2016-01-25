@@ -22,7 +22,7 @@ lunch
 
 At the end of the day ask student about unclear or complex concepts that they would like go through again.
 
-## Day 3 | Trainers: Carlos, Mateusz | Helpers: Arnold, Vincent, Anand
+## Day 3 | Trainers: Carlos, Mateusz | Helpers: Arnold, Vincent
 * [Data management with SQL](http://www.datacarpentry.org/sql-ecology/) (3h) (Carlos)
     
 lunch
