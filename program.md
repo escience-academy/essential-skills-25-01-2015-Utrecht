@@ -18,7 +18,7 @@ lunch
 
 lunch
 * [Introduction to Python II](http://www.datacarpentry.org/python-ecology/) (data carpentry python for ecologists)
-  (3-4h) (Christine)
+  (3-4h) (Christine, Mateusz)
 
 At the end of the day ask student about unclear or complex concepts that they would like go through again.
 
