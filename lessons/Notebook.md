@@ -1,24 +1,35 @@
 # Jupyter notebooks
 
-This lesson will show you the basics of working with Jupyter notebooks (previously known as IPython notebooks). First let's start by launching the notebook. If you are using anaconda, just click on the launch Notebook icon or on a terminal type:
+This lesson will show you the basics of working with Jupyter notebooks
+(previously known as IPython notebooks). First let's start by launching the
+notebook. If you are using anaconda, just click on the launch Notebook icon
+or on a terminal type:
 
 ```
 $ jupyter notebook
 ```
 
-This should cause a new browser window to open or open new tab in already opened web browser, showing the notebook Dashboard. On this screen, click on: `New > Python 3`, to start a new notebook. You can change the title of the notebook to anything you like.
+This should cause a new browser window to open or open new tab in already
+opened web browser, showing the notebook Dashboard. On this screen, click
+on: `New > Python 3`, to start a new notebook. You can change the title of
+the notebook to anything you like.
 
 ## Notebook basics
 
-A Notebook is an interactive execution environment, in this case for Python 3. The main idea is that we have a *kernel*, which is running in the background, and we interact with this kernel via the browser. (Kernels for other languages are available).
+A Notebook is an interactive execution environment, in this case for Python 3.
+The main idea is that we have a *kernel*, which is running in the background,
+and we interact with this kernel via the browser. (Kernels for other languages
+are available).
 
-We send instructions to the kernel by executing *cells*, and we get the response from the kernel as the output of our cell.
+We send instructions to the kernel by executing *cells*, and we get the
+response from the kernel as the output of our cell.
 
 ```
 1 + 1
 ```
 
-Notice that variables (data) remain loaded in our kernel, until we shut it down. This means that we can define a variable in one cell, and use it in another.
+Notice that variables (data) remain loaded in our kernel, until we shut it down.
+This means that we can define a variable in one cell, and use it in another.
 
 This is a cell. In a cell we enter code:
 ```
@@ -29,7 +40,10 @@ a = 1 + 1
 print(a)
 ```
 
-Cell has an `In [ ]:` *prompt* next to it. Once we execute cell, we have a `In [n]:` prompt, where `n*`is the execution number of the cell -- this way we know in which order we have run things. A cell has also a `Out [n]:` prompt, which indicates the result of the cell.
+Cell has an `In [ ]:` *prompt* next to it. Once we execute cell, we have a
+`In [n]:` prompt, where `n*`is the execution number of the cell -- this way we
+know in which order we have run things. A cell has also a `Out [n]:` prompt,
+which indicates the result of the cell.
 
 ## Notebook user interface
 
@@ -39,12 +53,14 @@ There are several ways to run code in a cell:
  - Shift + enter (run and move to cell below)
  - Alt + enter (run and insert new cell below)
 
-Obviously, we need to add more cells to be able to continue working. You can also re-order cells if you want.
+Obviously, we need to add more cells to be able to continue working. You can
+also re-order cells if you want.
 
 ## Tool bar
 Let's walk through the options in the tool bar.
 
- - The `Save` icon saves the notebook. Notice that notebooks also get autosaved periodically.
+ - The `Save` icon saves the notebook. Notice that notebooks also get autosaved
+   periodically.
  - **+** inserts a new cell
  - Cut, copy and paste cells
  - Up/down arrows to reorganize cells
@@ -61,7 +77,8 @@ Let's walk through the options in the tool bar.
 There are three different kinds of cells:
 
  - Code cells - the type of cell we've used above, (in and out)
- - Markdown - in these cells we can write text using the [Markdown language](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb#4.-Using-Markdown-Cells-for-Writing).
+ - Markdown - in these cells we can write text using the
+  [Markdown language](http://jupyter.cs.brynmawr.edu/hub/dblank/public/Jupyter%20Notebook%20Users%20Manual.ipynb#4.-Using-Markdown-Cells-for-Writing).
  - Raw cell - these cells are just plain text, which does not get processed in any way.
 
 ## Markdown cells
@@ -78,7 +95,9 @@ $$
 ```
 
 ## More on code cells
-In addition to *normal* Python, we can use code cells to run *magic functions*. These magic functions allow us to execute commands which are not strictly speaking Python:
+In addition to *normal* Python, we can use code cells to run *magic functions*.
+These magic functions allow us to execute commands which are not strictly
+speaking Python:
 
  - Bash commands (use `!` prefix) (such as `!ls` or `!pwd`)
  - ``%%timeit`
