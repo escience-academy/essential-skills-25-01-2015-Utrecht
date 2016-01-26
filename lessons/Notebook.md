@@ -6,7 +6,7 @@ This lesson will show you the basics of working with Jupyter notebooks (previous
 $ jupyter notebook
 ```
 
-This should cause a new browser window to open, showing the notebook Dashboard. On this screen, click on: `New > Python 3`, to start a new notebook. We can change the title of the notebook to anything you like.
+This should cause a new browser window to open or open new tab in already opened web browser, showing the notebook Dashboard. On this screen, click on: `New > Python 3`, to start a new notebook. We can change the title of the notebook to anything you like.
 
 ## Notebook basics
 
