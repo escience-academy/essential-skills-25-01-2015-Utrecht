@@ -6,11 +6,11 @@ This lesson will show you the basics of working with Jupyter notebooks (previous
 $ jupyter notebook
 ```
 
-This should cause a new browser window to open or open new tab in already opened web browser, showing the notebook Dashboard. On this screen, click on: `New > Python 3`, to start a new notebook. We can change the title of the notebook to anything you like.
+This should cause a new browser window to open or open new tab in already opened web browser, showing the notebook Dashboard. On this screen, click on: `New > Python 3`, to start a new notebook. You can change the title of the notebook to anything you like.
 
 ## Notebook basics
 
-A Notebook is an interactive execution environment, in this case for Python 3. The main idea is that we have a *kernel*, which is running on the background, and we interact with this kernel via the browser. (Kernels for other languages are available).
+A Notebook is an interactive execution environment, in this case for Python 3. The main idea is that we have a *kernel*, which is running in the background, and we interact with this kernel via the browser. (Kernels for other languages are available).
 
 We send instructions to the kernel by executing *cells*, and we get the response from the kernel as the output of our cell.
 
