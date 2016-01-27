@@ -1,4 +1,3 @@
-Marieke Dirksen dirksen@knmi.nl         KNMI
 Dennis Schmitz  Dennis.Schmitz@rivm.nl  RIVM
 Stef van der Meulen stefvandermeulen@gmail.com FOM Institute AMOLF
 Tim Kunne   Wageningen UR   Tim.kunne@wur.nl
@@ -11,3 +10,4 @@ Lindsey Burggraaff l.burggraaff@lacdr.leidenuniv.nl
 Marnix Vlot; Wageningen UR; marnix.vlot@wur.nl; Microbiology; host-virus interactions
 Alejandro Davila        University of Groningen           a.davila-martrinez@rug.nl
 Ivan Corbeski, i.corbeski@uu.nl, Utrecht University
+Ana van Meegen anavanmeegen@gmail.com
