@@ -1,6 +1,6 @@
 # Program:
 
-## Day 1 | Trainers: Carlos, Mateusz, Christine | Helpers: Jeroen, Haili
+## Day 1 | Trainers: Carlos, Mateusz, Christine | Helpers: Jeroen, Haili, Stefan
 * [Data organization in spreadsheets](http://www.datacarpentry.org/spreadsheet-ecology-lesson/) (1.5h ) (Carlos)
 
 coffee
@@ -22,7 +22,7 @@ lunch
 
 At the end of the day ask student about unclear or complex concepts that they would like go through again.
 
-## Day 3 | Trainers: Carlos, Mateusz | Helpers: Arnold, Vincent
+## Day 3 | Trainers: Carlos, Mateusz | Helpers: Arnold, Stefan, Vincent
 * [Data management with SQL](http://www.datacarpentry.org/sql-ecology/) (3h) (Carlos)
     
 lunch
