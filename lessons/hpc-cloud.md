@@ -17,11 +17,12 @@ high-performant big storage volumes. The user interface and cloud software relie
 
 ## <a name="essential-skills-workshop-29-01-2015-parta"></a>Essential Skills Workshop 29-01-2015 - Part A
 
-Here are your first steps:
+In part A you will go through the following steps:
 
-1. [Access the user interface](#access-the-user-interface)
-2. [Add your public SSH key](#add-your-public-ssh-key)
-3. [My first VM](#my-first-vm)
+>
+1. Access the user interface
+2. Add your public SSH key
+3. My first VM
 
 ### 1. Access the User Interface
 
