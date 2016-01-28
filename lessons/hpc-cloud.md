@@ -56,10 +56,32 @@ Do so now.
 
 To complete the set-up of your cloud account, you need to **add an SSH public key to your profile**. This is a one-time task.
 
-* First, read about SSH and public keys on the [Use Secure Shell (SSH) private/public keys](/SSHkey) page.<br />
-If you are already familiar with SSH public keys, you can skip reading this page.
-* You need a private/public key pair in your `~/.ssh/` directory. Create one now if needed.
-* Check with the command `ls ~/.ssh`: you should see files `id_rsa` and `id_rsa.pub`.
+*But what does this mean and why is it needed?*
+
+As an HPC Cloud user you have full control of your virtual machines (IaaS). This means that you are administrator in your own VMs, in other words `root` user. 
+
+In general, root users can access a machine with a password. However, passwords are not secure because they are easy to forget or be cracked. The [SSH keys](https://en.wikipedia.org/wiki/Secure_Shell#Key_management) authentication is a method to allow you access a remote machine securely, without passwords. 
+
+Follow the steps below to add an ssh key to your profile: 
+
+* First generate an `SSH key` pair of files: 
+  * Start a terminal (in Mac/Linux) or GitBash (in Windows). 
+  * Check if you already have an SSH key pair stored in your laptop. Type:
+
+```sh
+ls -l $HOME/.ssh/
+```
+
+  * If you see the files `id_rsa.pub` and `id_rsa`, skip the next command. If not, type the following command to generate a new SSH key pair:
+  
+```sh
+# just press enter in every question that shows
+ssh-keygen
+```
+
+> **NOTE:**
+>
+> This command will generate two files: a public key (`id_rsa.pub`) and a private key (`id_rsa`). You should see now the files in your $HOME/.ssh/ directory, try: `ls -l $HOME/.ssh/`
 
 Next, you will copy the public SSH key (`id_rsa.pub`) to the [UI](https://ui.hpccloud.surfsara.nl/), but you will keep the matching private key (`id_rsa`) safe in your laptop.
 
