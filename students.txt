@@ -20,5 +20,5 @@ Sytske Wiegersma, s.wiegersma@utwente.nl, University of Twente
 20
 21
 22
-23 Ralf Sluimer, sluimer@xs4all.nl, TNO
+Ralf Sluimer, sluimer@xs4all.nl, TNO
 24
