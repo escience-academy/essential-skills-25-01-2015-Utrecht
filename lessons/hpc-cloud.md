@@ -1,10 +1,10 @@
-# Essential Skills Workshop 29-01-2015
+# Essential Skills Workshop 29-01-2016
 
 * [General Information](#general) <br>
 * [Hands-on](#hands-on) <br>
-  * [Essential Skills Workshop 29-01-2015 - Part A](#essential-skills-workshop-29-01-2015-parta)
-  * [Essential Skills Workshop 29-01-2015 - Part B](#essential-skills-workshop-29-01-2015-partb)
-  * [Essential Skills Workshop 29-01-2015 - Extras](#essential-skills-workshop-29-01-2015-extras)
+  * [Essential Skills Workshop 29-01-2016 - Part A](#essential-skills-workshop-29-01-2016-parta)
+  * [Essential Skills Workshop 29-01-2016 - Part B](#essential-skills-workshop-29-01-2016-partb)
+  * [Essential Skills Workshop 29-01-2016 - Extras](#essential-skills-workshop-29-01-2016-extras)
 * [Presentation](#presentation)
 
 ## <a name="general"></a>General Information 
@@ -15,7 +15,7 @@ high-performant big storage volumes. The user interface and cloud software relie
 [OpenNebula 4](http://opennebula.org/) and the cluster is called _Oort_, after the 
 [Oort cloud](https://en.wikipedia.org/wiki/Oort_cloud).
 
-## <a name="essential-skills-workshop-29-01-2015-parta"></a>Essential Skills Workshop 29-01-2015 - Part A
+## <a name="essential-skills-workshop-29-01-2016-parta"></a>Essential Skills Workshop 29-01-2016 - Part A
 
 In part A you will go through the following steps:
 
@@ -235,9 +235,9 @@ Let's shut your first VM down. Anytime you expect your VM to become idle, you sh
 > Your running VMs are exclusively occupying resources (and hence, consuming quota from your group even though we haven't explicitly made you aware of it in the course material) whether they are doing something useful or are idle. Because the HPC Cloud is offered on a fair-share basis and other users may actually be needing resources that you may be holding, before you move to the next part of this workshop, please **remember to shut all your VMs down**.
 
 
-## <a name="essential-skills-workshop-29-01-2015-partb"></a>Essential Skills Workshop 29-01-2015 - Part B
+## <a name="essential-skills-workshop-29-01-2016-partb"></a>Essential Skills Workshop 29-01-2016 - Part B
 
-This is part B of the tutorial. **If you have not completed (and understood)** [Essential Skills Workshop 29-01-2015 - Part A](#essential-skills-workshop-29-01-2015-parta), please do so first.
+This is part B of the tutorial. **If you have not completed (and understood)** [Essential Skills Workshop 29-01-2016 - Part A](#essential-skills-workshop-29-01-2016-parta), please do so first.
 
 >
 1. Persistence
@@ -276,7 +276,7 @@ In this section you will work with **persistent** images. You will go through th
 
 #### Start a persistent VM
 * Start your virtual machine again.
-* Log in and check the files you created during the previous run [Essential Skills Workshop 29-01-2015 - Part A](#essential-skills-workshop-29-01-2015-parta).
+* Log in and check the files you created during the previous run [Essential Skills Workshop 29-01-2016 - Part A](#essential-skills-workshop-29-01-2016-parta).
 
 > **Food for brain:**
 > During the previous run, the VM's disk was *non-persistent*. From now on, you can store data in your VM that will be written on the backing `image` even if you restart your VM. Try it.
@@ -405,10 +405,10 @@ sudo chown ubuntu:ubuntu -R /data
 >  Play around, make your checks and shut down all the VMs when you are done. Your running VMs are consuming quota whether they are doing something useful or are idle.
 
 
-## <a name="essential-skills-workshop-29-01-2015-extras"></a>Essential Skills Workshop 29-01-2015 - Extras
+## <a name="essential-skills-workshop-29-01-2016-extras"></a>Essential Skills Workshop 29-01-2016 - Extras
 
 This is an exercise in the Extras of the Tutorial.
-**You should have completed (and understood)** [Essential Skills Workshop 29-01-2015 - Part A](#essential-skills-workshop-29-01-2015-parta) and [Essential Skills Workshop 29-01-2015 - Part B](#essential-skills-workshop-29-01-2015-partb) before trying this exercise.
+**You should have completed (and understood)** [Essential Skills Workshop 29-01-2016 - Part A](#essential-skills-workshop-29-01-2016-parta) and [Essential Skills Workshop 29-01-2016 - Part B](#essential-skills-workshop-29-01-2016-partb) before trying this exercise.
 
 In this advanced part of our HPC Cloud tutorial we ask you to play around with a parallel processing technique (multithreading). For this puspose, we will use an implementation of _pi_ calculation using `OpenMP`. You will be asked to perform multiple runs of each program, so that fluctuations caused by e.g. network can be middled out. The output of each program includes results for run time in _wall-clock_, _user_ and _system_ time.
 
