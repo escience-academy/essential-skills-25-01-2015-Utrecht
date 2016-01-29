@@ -366,14 +366,9 @@ sudo fdisk -l
 * You need to format the drive now. To format it with the XFS file system install `xfsprogs`:
 
 ```sh
-sudo apt-get install xfsprogs
-```
-
-* Create the directory where you will mount the Ceph datablock:
-
-```sh
-sudo mkdir /data  
-sudo mkfs -t xfs /dev/vdb  
+sudo apt-get install xfsprogs  #install the xfs software to format the disk
+sudo mkdir /data  # create the directory where you will mount the Ceph datablock
+sudo mkfs -t xfs /dev/vdb  #format now
 ```
 
 * Mount the datadisk in the VM:
