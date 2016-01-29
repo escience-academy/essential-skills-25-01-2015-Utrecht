@@ -81,6 +81,10 @@ ssh-keygen
 ```
 
 > **NOTE:**
+> Due to the tight timeschedule in this tutorial we don't use a passphrase in this example for convenience. However this is *not* a recommended practice. You should protect your ssh key with a passphrase. How to do this? See:  [here](http://doc.hpccloud.surfsara.nl/SSHkey).
+
+
+> **NOTE:**
 >
 > This command will generate two files: a public key (`id_rsa.pub`) and a private key (`id_rsa`). You should see now the files in your $HOME/.ssh/ directory, try: `ls -l $HOME/.ssh/`
 
