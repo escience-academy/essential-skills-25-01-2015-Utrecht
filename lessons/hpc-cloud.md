@@ -535,4 +535,4 @@ gcc -std=c99 -Wall -Werror -pedantic -fopenmp gridpi-mp-reduction.c -lm -o gridp
 
 ## <a name="presentation"></a> Presentation
 
-* [Introduction to HPC Cloud at SURFsara](CloudWorkshop2016-overview-pdf.pdf)
+* [Introduction to HPC Cloud at SURFsara](Cloud-overview-carpentry.pdf)
