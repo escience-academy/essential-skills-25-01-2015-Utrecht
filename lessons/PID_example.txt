@@ -1,0 +1,103 @@
+#How do repositories create PIDs for data objects?
+#How can you create a PID for your own data objects?
+
+#1) obtain a prefix from an resolver admin
+#2) set up internet connection to the PID server with a client
+#3) create a PID
+#4) link PID and location of the data object
+
+#Import necessary libraries
+
+from epicclient import EpicClient, LocationType, Credentials
+import uuid
+import hashlib
+import os, shutil
+
+#Connect to the surfsara handle server 
+#Give credentials (username, password)
+cred = Credentials('os', 'credentials_test')
+cred.parse()
+
+#Get some information on who I am on the server
+ec = EpicClient(cred)
+print "PID server", ec.cred.baseuri
+
+#Prefix is your user name which is coupled to an administratory domain
+print "PID prefix", ec.cred.prefix
+
+#Register a file
+#Location of file from Pandas example
+fileLocation = "https://ndownloader.figshare.com/files/2292172"
+
+#Building the PID:
+#Create a universally unique identifier (uuid)
+#Take function for this from 
+import uuid
+uid = uuid.uuid1()
+print(uid)
+print(type(uid))
+
+#Concatenate prefix and uuid to create the PID
+pid = cred.prefix+'/'+str(uid)
+print(pid)
+
+#We now have an opaque string which is unique to our 
+#resolver since
+#The prefix is unique 
+#(handed out by administers of the resolver)
+#The suffix has been created with the uuid function
+
+#Next we need to link the PID and the data object 
+#we would like the PID to point to
+newHandle = ec.createHandle(pid, fileLocation)
+
+#Let’s go to the resolver and see what is stored there
+#Resolver http://epic3.storage.surfsara.nl:8001 
+#and type PID in
+#Or type
+#http://epic3.storage.surfsara.nl:8001/841/c214e045-be8e-11e5-ac88-b8e8561bdbec
+#into your browser
+#We can get some information on the data from the resolver
+#We can retrieve the data object itself via the web-browser
+
+#Store some handy information with your file
+?ec.modifyHandle
+ec.modifyHandle(newHandle, "TYPE", 
+    "Data Carpentry pandas example file")
+
+#Store information on identity of the file --> checksum
+import hashlib
+md5sum = hashlib.md5(
+    "/Users/christines/Downloads/surveys.csv").hexdigest()
+ec.modifyHandle(newHandle, "MD5", md5sum)
+
+#Assume location of file has changed, modify URL field
+ec.modifyHandle(newHandle, "URL", 
+    "/Users/christines/Downloads/surveys.csv")
+
+#Try to fetch some metadata on the file from the resolver
+#Try to resolve directly to the file
+#What happens?
+
+
+# --> inoformation stored with the PID is ALWAYS public
+# --> data itself can lie on a protected server/computer 
+#       and not be accessible for everyone
+
+#Linking two files
+#Register another file
+
+uid = uuid.uuid1()
+print(uid)
+pid = '841'+'/'+str(uid)
+
+#Create new PID/handle for the public figshare data
+Handle = ec.createHandle(pid, fileLocation)
+
+#Leave information that local file should be the 
+#same as the figshare file
+ec.modifyHandle(newHandle, "Same_as", Handle)
+
+#To verify that theur are the same, 
+#you have the md5sum stored in the pointer to the local file
+
